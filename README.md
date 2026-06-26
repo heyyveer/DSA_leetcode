@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/heyyveer/DSA_leetcode/tree/master/0136-single-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0696-count-binary-substrings](https://github.com/heyyveer/DSA_leetcode/tree/master/0696-count-binary-substrings) |
+## String
+|  |
+| ------- |
+| [0696-count-binary-substrings](https://github.com/heyyveer/DSA_leetcode/tree/master/0696-count-binary-substrings) |
 <!---LeetCode Topics End-->
