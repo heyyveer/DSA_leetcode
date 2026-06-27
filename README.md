@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/heyyveer/DSA_leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/heyyveer/DSA_leetcode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/heyyveer/DSA_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/heyyveer/DSA_leetcode/tree/master/0136-single-number) |
 | [0832-flipping-an-image](https://github.com/heyyveer/DSA_leetcode/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/heyyveer/DSA_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/heyyveer/DSA_leetcode/tree/master/0234-palindrome-linked-list) |
 | [0696-count-binary-substrings](https://github.com/heyyveer/DSA_leetcode/tree/master/0696-count-binary-substrings) |
 | [0832-flipping-an-image](https://github.com/heyyveer/DSA_leetcode/tree/master/0832-flipping-an-image) |
