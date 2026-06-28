@@ -26,11 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/heyyveer/DSA_leetcode/tree/master/0234-palindrome-linked-list) |
 | [0696-count-binary-substrings](https://github.com/heyyveer/DSA_leetcode/tree/master/0696-count-binary-substrings) |
 | [0832-flipping-an-image](https://github.com/heyyveer/DSA_leetcode/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/heyyveer/DSA_leetcode/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/heyyveer/DSA_leetcode/tree/master/0014-longest-common-prefix) |
 | [0696-count-binary-substrings](https://github.com/heyyveer/DSA_leetcode/tree/master/0696-count-binary-substrings) |
+| [0844-backspace-string-compare](https://github.com/heyyveer/DSA_leetcode/tree/master/0844-backspace-string-compare) |
 ## Matrix
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/heyyveer/DSA_leetcode/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/heyyveer/DSA_leetcode/tree/master/0844-backspace-string-compare) |
 | [3028-ant-on-the-boundary](https://github.com/heyyveer/DSA_leetcode/tree/master/3028-ant-on-the-boundary) |
 ## Linked List
 |  |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/heyyveer/DSA_leetcode/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/heyyveer/DSA_leetcode/tree/master/0844-backspace-string-compare) |
 ## Recursion
 |  |
 | ------- |
