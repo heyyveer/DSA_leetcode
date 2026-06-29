@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/heyyveer/DSA_leetcode/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/heyyveer/DSA_leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/heyyveer/DSA_leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/heyyveer/DSA_leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3028-ant-on-the-boundary](https://github.com/heyyveer/DSA_leetcode/tree/master/3028-ant-on-the-boundary) |
 ## Bit Manipulation
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/heyyveer/DSA_leetcode/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/heyyveer/DSA_leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/heyyveer/DSA_leetcode/tree/master/0925-long-pressed-name) |
+| [0977-squares-of-a-sorted-array](https://github.com/heyyveer/DSA_leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -86,4 +88,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/heyyveer/DSA_leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/heyyveer/DSA_leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/heyyveer/DSA_leetcode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
