@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/heyyveer/DSA_leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/heyyveer/DSA_leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/heyyveer/DSA_leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/heyyveer/DSA_leetcode/tree/master/1089-duplicate-zeros) |
 | [3028-ant-on-the-boundary](https://github.com/heyyveer/DSA_leetcode/tree/master/3028-ant-on-the-boundary) |
 ## Bit Manipulation
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/heyyveer/DSA_leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/heyyveer/DSA_leetcode/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/heyyveer/DSA_leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/heyyveer/DSA_leetcode/tree/master/1089-duplicate-zeros) |
 ## String
 |  |
 | ------- |
