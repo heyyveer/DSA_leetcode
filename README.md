@@ -168,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/heyyveer/DSA_leetcode/tree/master/0257-binary-tree-paths) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/heyyveer/DSA_leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
