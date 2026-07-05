@@ -177,4 +177,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/heyyveer/DSA_leetcode/tree/master/0511-game-play-analysis-i) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/heyyveer/DSA_leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0607-sales-person](https://github.com/heyyveer/DSA_leetcode/tree/master/0607-sales-person) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/heyyveer/DSA_leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 <!---LeetCode Topics End-->
