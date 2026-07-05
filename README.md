@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/heyyveer/DSA_leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/heyyveer/DSA_leetcode/tree/master/0136-single-number) |
 | [0832-flipping-an-image](https://github.com/heyyveer/DSA_leetcode/tree/master/0832-flipping-an-image) |
 ## Two Pointers
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/heyyveer/DSA_leetcode/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/heyyveer/DSA_leetcode/tree/master/0067-add-binary) |
 | [0257-binary-tree-paths](https://github.com/heyyveer/DSA_leetcode/tree/master/0257-binary-tree-paths) |
 | [0696-count-binary-substrings](https://github.com/heyyveer/DSA_leetcode/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/heyyveer/DSA_leetcode/tree/master/0821-shortest-distance-to-a-character) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/heyyveer/DSA_leetcode/tree/master/0067-add-binary) |
 | [0832-flipping-an-image](https://github.com/heyyveer/DSA_leetcode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/heyyveer/DSA_leetcode/tree/master/0844-backspace-string-compare) |
 | [3028-ant-on-the-boundary](https://github.com/heyyveer/DSA_leetcode/tree/master/3028-ant-on-the-boundary) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/heyyveer/DSA_leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/heyyveer/DSA_leetcode/tree/master/0069-sqrtx) |
 ## Binary Search
 |  |
