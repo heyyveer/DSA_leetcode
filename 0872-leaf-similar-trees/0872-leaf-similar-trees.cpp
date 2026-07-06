@@ -13,29 +13,19 @@ class Solution {
 public:
     vector<int>root1leaf;
     vector<int>root2leaf;
-    void dfs1(TreeNode* root){
+    void dfs(TreeNode* root , vector<int>& leaf){
         if(root==NULL){
             return;
         }
         if(root->left==NULL && root->right==NULL){
-            root1leaf.push_back(root->val);
+            leaf.push_back(root->val);
         }
-        dfs1(root->left);
-        dfs1(root->right);
-    }
-    void dfs2(TreeNode* root){
-        if(root==NULL){
-            return;
-        }
-        if(root->left==NULL && root->right==NULL){
-            root2leaf.push_back(root->val);
-        }
-        dfs2(root->left);
-        dfs2(root->right);
+        dfs(root->left,leaf);
+        dfs(root->right,leaf);
     }
     bool leafSimilar(TreeNode* root1, TreeNode* root2) {
-        dfs1(root1);
-        dfs2(root2);
+        dfs(root1,root1leaf);
+        dfs(root2,root2leaf);
         return root1leaf == root2leaf;
     }
 };
