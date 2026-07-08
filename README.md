@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/heyyveer/DSA_leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/heyyveer/DSA_leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/heyyveer/DSA_leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/heyyveer/DSA_leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/heyyveer/DSA_leetcode/tree/master/0872-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/heyyveer/DSA_leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/heyyveer/DSA_leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/heyyveer/DSA_leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/heyyveer/DSA_leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/heyyveer/DSA_leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/heyyveer/DSA_leetcode/tree/master/0872-leaf-similar-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/heyyveer/DSA_leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Backtracking
@@ -225,4 +227,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/heyyveer/DSA_leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/heyyveer/DSA_leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/heyyveer/DSA_leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/heyyveer/DSA_leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
