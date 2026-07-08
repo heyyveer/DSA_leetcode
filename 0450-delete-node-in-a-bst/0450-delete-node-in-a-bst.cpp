@@ -24,16 +24,15 @@ public:
         else {
             if(root->left==NULL){
                 TreeNode* temp=root->right;
-                delete(root);
+                delete root;
                 return temp;
             }
             if(root->right==NULL){
                 TreeNode* temp=root->left;
-                delete(root);
+                delete root;
                 return temp;
             }
             TreeNode* temp=root->right;
-
             while(temp->left){
                 temp=temp->left;
             }
