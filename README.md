@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/heyyveer/DSA_leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/heyyveer/DSA_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/heyyveer/DSA_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/heyyveer/DSA_leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/heyyveer/DSA_leetcode/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/heyyveer/DSA_leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0696-count-binary-substrings](https://github.com/heyyveer/DSA_leetcode/tree/master/0696-count-binary-substrings) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/heyyveer/DSA_leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/heyyveer/DSA_leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/heyyveer/DSA_leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/heyyveer/DSA_leetcode/tree/master/0202-happy-number) |
 ## Trie
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/heyyveer/DSA_leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/heyyveer/DSA_leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/heyyveer/DSA_leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/heyyveer/DSA_leetcode/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
