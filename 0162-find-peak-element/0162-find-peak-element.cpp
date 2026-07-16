@@ -1,14 +1,17 @@
 class Solution {
 public:
-    int findPeakElement(vector<int>& arr) {
-        vector<int>test=arr;
-        sort(arr.begin(),arr.end());
-        int ans=arr[arr.size()-1];
-        for(int i=0;i<arr.size();i++){
-            if(test[i]==ans){
-                return i;
+    int findPeakElement(vector<int>& nums) {
+        int left = 0;
+        int right = nums.size() - 1;
+        while (left < right) {
+            int mid = left + (right - left) / 2;
+            if (nums[mid] < nums[mid + 1]) {
+                left = mid + 1;
+            }
+            else {
+                right = mid;
             }
         }
-        return -1;
+        return left;
     }
 };
