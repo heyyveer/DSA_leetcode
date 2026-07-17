@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/heyyveer/DSA_leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/heyyveer/DSA_leetcode/tree/master/1089-duplicate-zeros) |
 | [3028-ant-on-the-boundary](https://github.com/heyyveer/DSA_leetcode/tree/master/3028-ant-on-the-boundary) |
+| [3312-sorted-gcd-pair-queries](https://github.com/heyyveer/DSA_leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/heyyveer/DSA_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/heyyveer/DSA_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/heyyveer/DSA_leetcode/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/heyyveer/DSA_leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [3312-sorted-gcd-pair-queries](https://github.com/heyyveer/DSA_leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Trie
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/heyyveer/DSA_leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/heyyveer/DSA_leetcode/tree/master/0724-find-pivot-index) |
 | [3028-ant-on-the-boundary](https://github.com/heyyveer/DSA_leetcode/tree/master/3028-ant-on-the-boundary) |
+| [3312-sorted-gcd-pair-queries](https://github.com/heyyveer/DSA_leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sorting
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/heyyveer/DSA_leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/heyyveer/DSA_leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/heyyveer/DSA_leetcode/tree/master/0202-happy-number) |
+| [3312-sorted-gcd-pair-queries](https://github.com/heyyveer/DSA_leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/heyyveer/DSA_leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/heyyveer/DSA_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -180,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/heyyveer/DSA_leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/heyyveer/DSA_leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/heyyveer/DSA_leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/heyyveer/DSA_leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Tree
 |  |
 | ------- |
@@ -347,6 +352,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/heyyveer/DSA_leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/heyyveer/DSA_leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/heyyveer/DSA_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/heyyveer/DSA_leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/heyyveer/DSA_leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
