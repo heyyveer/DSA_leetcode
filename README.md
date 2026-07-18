@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/heyyveer/DSA_leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/heyyveer/DSA_leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/heyyveer/DSA_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/heyyveer/DSA_leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3028-ant-on-the-boundary](https://github.com/heyyveer/DSA_leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3312-sorted-gcd-pair-queries](https://github.com/heyyveer/DSA_leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/heyyveer/DSA_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/heyyveer/DSA_leetcode/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/heyyveer/DSA_leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/heyyveer/DSA_leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/heyyveer/DSA_leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3312-sorted-gcd-pair-queries](https://github.com/heyyveer/DSA_leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Tree
 |  |
