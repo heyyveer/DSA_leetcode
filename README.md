@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/heyyveer/DSA_leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/heyyveer/DSA_leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/heyyveer/DSA_leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/heyyveer/DSA_leetcode/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/heyyveer/DSA_leetcode/tree/master/1089-duplicate-zeros) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/heyyveer/DSA_leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/heyyveer/DSA_leetcode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -396,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/heyyveer/DSA_leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/heyyveer/DSA_leetcode/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
