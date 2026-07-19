@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/heyyveer/DSA_leetcode/tree/master/1089-duplicate-zeros) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/heyyveer/DSA_leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/heyyveer/DSA_leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/heyyveer/DSA_leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/heyyveer/DSA_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/heyyveer/DSA_leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/heyyveer/DSA_leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/heyyveer/DSA_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/heyyveer/DSA_leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/heyyveer/DSA_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/heyyveer/DSA_leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/heyyveer/DSA_leetcode/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/heyyveer/DSA_leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/heyyveer/DSA_leetcode/tree/master/1046-last-stone-weight) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/heyyveer/DSA_leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/heyyveer/DSA_leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Design
 |  |
