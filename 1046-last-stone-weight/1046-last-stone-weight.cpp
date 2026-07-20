@@ -5,23 +5,22 @@ public:
         for(int ch : stones){
             pq.push(ch);
         }
+
         while(pq.size()>=2){
-            int x =pq.top();
+            int a=pq.top();
             pq.pop();
-            int y =pq.top();
+            int b=pq.top();
             pq.pop();
-            if(x==y){
+            if(a==b){
                 continue;
             }
             else{
-                pq.push(x-y);
+                pq.push(a-b);
             }
         }
         if(pq.empty()){
             return 0;
         }
-        else{
-            return pq.top();
-        }
+        return pq.top();
     }
 };
