@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/heyyveer/DSA_leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/heyyveer/DSA_leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/heyyveer/DSA_leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/heyyveer/DSA_leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/heyyveer/DSA_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/heyyveer/DSA_leetcode/tree/master/1046-last-stone-weight) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/heyyveer/DSA_leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/heyyveer/DSA_leetcode/tree/master/2208-minimum-operations-to-halve-array-sum) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/heyyveer/DSA_leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/heyyveer/DSA_leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Design
 |  |
