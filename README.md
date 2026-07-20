@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/heyyveer/DSA_leetcode/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/heyyveer/DSA_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/heyyveer/DSA_leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0692-top-k-frequent-words](https://github.com/heyyveer/DSA_leetcode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/heyyveer/DSA_leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/heyyveer/DSA_leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/heyyveer/DSA_leetcode/tree/master/0724-find-pivot-index) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/heyyveer/DSA_leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/heyyveer/DSA_leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0257-binary-tree-paths](https://github.com/heyyveer/DSA_leetcode/tree/master/0257-binary-tree-paths) |
+| [0692-top-k-frequent-words](https://github.com/heyyveer/DSA_leetcode/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/heyyveer/DSA_leetcode/tree/master/0696-count-binary-substrings) |
 | [0821-shortest-distance-to-a-character](https://github.com/heyyveer/DSA_leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/heyyveer/DSA_leetcode/tree/master/0844-backspace-string-compare) |
@@ -161,11 +163,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/heyyveer/DSA_leetcode/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/heyyveer/DSA_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/heyyveer/DSA_leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/heyyveer/DSA_leetcode/tree/master/0692-top-k-frequent-words) |
 | [3312-sorted-gcd-pair-queries](https://github.com/heyyveer/DSA_leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/heyyveer/DSA_leetcode/tree/master/0014-longest-common-prefix) |
+| [0692-top-k-frequent-words](https://github.com/heyyveer/DSA_leetcode/tree/master/0692-top-k-frequent-words) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/heyyveer/DSA_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/heyyveer/DSA_leetcode/tree/master/0506-relative-ranks) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/heyyveer/DSA_leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0692-top-k-frequent-words](https://github.com/heyyveer/DSA_leetcode/tree/master/0692-top-k-frequent-words) |
 | [0905-sort-array-by-parity](https://github.com/heyyveer/DSA_leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/heyyveer/DSA_leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/heyyveer/DSA_leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -422,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/heyyveer/DSA_leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/heyyveer/DSA_leetcode/tree/master/0692-top-k-frequent-words) |
 | [3312-sorted-gcd-pair-queries](https://github.com/heyyveer/DSA_leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Heap (Priority Queue)
 |  |
@@ -429,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/heyyveer/DSA_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/heyyveer/DSA_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/heyyveer/DSA_leetcode/tree/master/0506-relative-ranks) |
+| [0692-top-k-frequent-words](https://github.com/heyyveer/DSA_leetcode/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/heyyveer/DSA_leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/heyyveer/DSA_leetcode/tree/master/1046-last-stone-weight) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/heyyveer/DSA_leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -451,4 +458,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/heyyveer/DSA_leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/heyyveer/DSA_leetcode/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
