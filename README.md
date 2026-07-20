@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/heyyveer/DSA_leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/heyyveer/DSA_leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3028-ant-on-the-boundary](https://github.com/heyyveer/DSA_leetcode/tree/master/3028-ant-on-the-boundary) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/heyyveer/DSA_leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/heyyveer/DSA_leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/heyyveer/DSA_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/heyyveer/DSA_leetcode/tree/master/1260-shift-2d-grid) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/heyyveer/DSA_leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3028-ant-on-the-boundary](https://github.com/heyyveer/DSA_leetcode/tree/master/3028-ant-on-the-boundary) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/heyyveer/DSA_leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/heyyveer/DSA_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/heyyveer/DSA_leetcode/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/heyyveer/DSA_leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/heyyveer/DSA_leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/heyyveer/DSA_leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Design
 |  |
 | ------- |
