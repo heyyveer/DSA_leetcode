@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/heyyveer/DSA_leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/heyyveer/DSA_leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0257-binary-tree-paths](https://github.com/heyyveer/DSA_leetcode/tree/master/0257-binary-tree-paths) |
+| [0383-ransom-note](https://github.com/heyyveer/DSA_leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/heyyveer/DSA_leetcode/tree/master/0409-longest-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/heyyveer/DSA_leetcode/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/heyyveer/DSA_leetcode/tree/master/0696-count-binary-substrings) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/heyyveer/DSA_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/heyyveer/DSA_leetcode/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/heyyveer/DSA_leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/heyyveer/DSA_leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/heyyveer/DSA_leetcode/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/heyyveer/DSA_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/heyyveer/DSA_leetcode/tree/master/0692-top-k-frequent-words) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/heyyveer/DSA_leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/heyyveer/DSA_leetcode/tree/master/0383-ransom-note) |
 | [0692-top-k-frequent-words](https://github.com/heyyveer/DSA_leetcode/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/heyyveer/DSA_leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3312-sorted-gcd-pair-queries](https://github.com/heyyveer/DSA_leetcode/tree/master/3312-sorted-gcd-pair-queries) |
