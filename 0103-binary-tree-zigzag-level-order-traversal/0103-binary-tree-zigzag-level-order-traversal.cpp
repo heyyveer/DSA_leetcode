@@ -16,28 +16,27 @@ public:
         if(root==NULL){
             return ans;
         }
-
-        queue<TreeNode*>q;
+        queue<TreeNode*> q;
         q.push(root);
         while(!q.empty()){
-            int level=q.size();
-            vector<int>current;
+            int level = q.size();
+            vector<int> curr;
             for(int i=0;i<level;i++){
-                TreeNode* node=q.front();
+                TreeNode* temp = q.front();
                 q.pop();
-                current.push_back(node->val);
-                if(node->left){
-                    q.push(node->left);
+                curr.push_back(temp->val);
+                if(temp->left){
+                    q.push(temp->left);
                 }
-                if(node->right){
-                    q.push(node->right);
+                if(temp->right){
+                    q.push(temp->right);
                 }
             }
-            ans.push_back(current);
+            ans.push_back(curr);
         }
-        for (int i = 1; i < ans.size(); i += 2) {
-            reverse(ans[i].begin(), ans[i].end());
+        for(int i =1;i<ans.size();i+=2){
+            reverse(ans[i].begin(),ans[i].end());
         }
-        return ans;     
+        return ans;
     }
 };
