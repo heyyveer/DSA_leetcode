@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/heyyveer/DSA_leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/heyyveer/DSA_leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/heyyveer/DSA_leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/heyyveer/DSA_leetcode/tree/master/0141-linked-list-cycle) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/heyyveer/DSA_leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/heyyveer/DSA_leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/heyyveer/DSA_leetcode/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/heyyveer/DSA_leetcode/tree/master/0486-predict-the-winner) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/heyyveer/DSA_leetcode/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/heyyveer/DSA_leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/heyyveer/DSA_leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/heyyveer/DSA_leetcode/tree/master/0168-excel-sheet-column-title) |
