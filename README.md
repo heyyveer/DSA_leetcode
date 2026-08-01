@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/heyyveer/DSA_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/heyyveer/DSA_leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/heyyveer/DSA_leetcode/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/heyyveer/DSA_leetcode/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/heyyveer/DSA_leetcode/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/heyyveer/DSA_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/heyyveer/DSA_leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/heyyveer/DSA_leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/heyyveer/DSA_leetcode/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/heyyveer/DSA_leetcode/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/heyyveer/DSA_leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/heyyveer/DSA_leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/heyyveer/DSA_leetcode/tree/master/0202-happy-number) |
+| [0486-predict-the-winner](https://github.com/heyyveer/DSA_leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/heyyveer/DSA_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/heyyveer/DSA_leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/heyyveer/DSA_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/heyyveer/DSA_leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/heyyveer/DSA_leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/heyyveer/DSA_leetcode/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/heyyveer/DSA_leetcode/tree/master/0486-predict-the-winner) |
 ## Number Theory
 |  |
 | ------- |
@@ -557,4 +561,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/heyyveer/DSA_leetcode/tree/master/0572-subtree-of-another-tree) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/heyyveer/DSA_leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
