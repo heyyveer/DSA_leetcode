@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/heyyveer/DSA_leetcode/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/heyyveer/DSA_leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/heyyveer/DSA_leetcode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/heyyveer/DSA_leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/heyyveer/DSA_leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/heyyveer/DSA_leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/heyyveer/DSA_leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/heyyveer/DSA_leetcode/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/heyyveer/DSA_leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/heyyveer/DSA_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/heyyveer/DSA_leetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/heyyveer/DSA_leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/heyyveer/DSA_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/heyyveer/DSA_leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/heyyveer/DSA_leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/heyyveer/DSA_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/heyyveer/DSA_leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/heyyveer/DSA_leetcode/tree/master/0877-stone-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -568,4 +571,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/heyyveer/DSA_leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/heyyveer/DSA_leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
