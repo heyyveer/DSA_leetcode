@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/heyyveer/DSA_leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/heyyveer/DSA_leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/heyyveer/DSA_leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/heyyveer/DSA_leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/heyyveer/DSA_leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/heyyveer/DSA_leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/heyyveer/DSA_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/heyyveer/DSA_leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/heyyveer/DSA_leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/heyyveer/DSA_leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/heyyveer/DSA_leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/heyyveer/DSA_leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/heyyveer/DSA_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/heyyveer/DSA_leetcode/tree/master/0486-predict-the-winner) |
