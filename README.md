@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/heyyveer/DSA_leetcode/tree/master/0872-leaf-similar-trees) |
 | [0951-flip-equivalent-binary-trees](https://github.com/heyyveer/DSA_leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/heyyveer/DSA_leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/heyyveer/DSA_leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/heyyveer/DSA_leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/heyyveer/DSA_leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/heyyveer/DSA_leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/heyyveer/DSA_leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -612,4 +614,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/heyyveer/DSA_leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/heyyveer/DSA_leetcode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
