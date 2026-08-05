@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/heyyveer/DSA_leetcode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/heyyveer/DSA_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/heyyveer/DSA_leetcode/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/heyyveer/DSA_leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/heyyveer/DSA_leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/heyyveer/DSA_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/heyyveer/DSA_leetcode/tree/master/0658-find-k-closest-elements) |
@@ -606,4 +607,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/heyyveer/DSA_leetcode/tree/master/1406-stone-game-iii) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/heyyveer/DSA_leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
