@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/heyyveer/DSA_leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/heyyveer/DSA_leetcode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/heyyveer/DSA_leetcode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/heyyveer/DSA_leetcode/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/heyyveer/DSA_leetcode/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/heyyveer/DSA_leetcode/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/heyyveer/DSA_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/heyyveer/DSA_leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/heyyveer/DSA_leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/heyyveer/DSA_leetcode/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/heyyveer/DSA_leetcode/tree/master/0441-arranging-coins) |
 | [0658-find-k-closest-elements](https://github.com/heyyveer/DSA_leetcode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/heyyveer/DSA_leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/heyyveer/DSA_leetcode/tree/master/0713-subarray-product-less-than-k) |
