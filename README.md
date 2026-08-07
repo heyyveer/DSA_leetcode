@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/heyyveer/DSA_leetcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/heyyveer/DSA_leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/heyyveer/DSA_leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/heyyveer/DSA_leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/heyyveer/DSA_leetcode/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/heyyveer/DSA_leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/heyyveer/DSA_leetcode/tree/master/0409-longest-palindrome) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/heyyveer/DSA_leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/heyyveer/DSA_leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/heyyveer/DSA_leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/heyyveer/DSA_leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/heyyveer/DSA_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/heyyveer/DSA_leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/heyyveer/DSA_leetcode/tree/master/0409-longest-palindrome) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/heyyveer/DSA_leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/heyyveer/DSA_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/heyyveer/DSA_leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/heyyveer/DSA_leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/heyyveer/DSA_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/heyyveer/DSA_leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/heyyveer/DSA_leetcode/tree/master/0506-relative-ranks) |
