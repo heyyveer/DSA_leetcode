@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/heyyveer/DSA_leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3028-ant-on-the-boundary](https://github.com/heyyveer/DSA_leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/heyyveer/DSA_leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/heyyveer/DSA_leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/heyyveer/DSA_leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/heyyveer/DSA_leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/heyyveer/DSA_leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/heyyveer/DSA_leetcode/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3028-ant-on-the-boundary](https://github.com/heyyveer/DSA_leetcode/tree/master/3028-ant-on-the-boundary) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/heyyveer/DSA_leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/heyyveer/DSA_leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/heyyveer/DSA_leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
