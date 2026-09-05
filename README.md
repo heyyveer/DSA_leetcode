@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/heyyveer/DSA_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/heyyveer/DSA_leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/heyyveer/DSA_leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/heyyveer/DSA_leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/heyyveer/DSA_leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/heyyveer/DSA_leetcode/tree/master/0125-valid-palindrome) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/heyyveer/DSA_leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/heyyveer/DSA_leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/heyyveer/DSA_leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/heyyveer/DSA_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -671,4 +673,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/heyyveer/DSA_leetcode/tree/master/1095-find-in-mountain-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/heyyveer/DSA_leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
