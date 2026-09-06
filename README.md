@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/heyyveer/DSA_leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/heyyveer/DSA_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/heyyveer/DSA_leetcode/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/heyyveer/DSA_leetcode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/heyyveer/DSA_leetcode/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/heyyveer/DSA_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/heyyveer/DSA_leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/heyyveer/DSA_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/heyyveer/DSA_leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/heyyveer/DSA_leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/heyyveer/DSA_leetcode/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/heyyveer/DSA_leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/heyyveer/DSA_leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/heyyveer/DSA_leetcode/tree/master/0844-backspace-string-compare) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/heyyveer/DSA_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/heyyveer/DSA_leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/heyyveer/DSA_leetcode/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/heyyveer/DSA_leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/heyyveer/DSA_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/heyyveer/DSA_leetcode/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/heyyveer/DSA_leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/heyyveer/DSA_leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/heyyveer/DSA_leetcode/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/heyyveer/DSA_leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/heyyveer/DSA_leetcode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/heyyveer/DSA_leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
