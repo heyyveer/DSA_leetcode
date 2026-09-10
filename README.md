@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/heyyveer/DSA_leetcode/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/heyyveer/DSA_leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/heyyveer/DSA_leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/heyyveer/DSA_leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/heyyveer/DSA_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/heyyveer/DSA_leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/heyyveer/DSA_leetcode/tree/master/0202-happy-number) |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/heyyveer/DSA_leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/heyyveer/DSA_leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/heyyveer/DSA_leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/heyyveer/DSA_leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/heyyveer/DSA_leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/heyyveer/DSA_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -692,4 +694,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/heyyveer/DSA_leetcode/tree/master/0020-valid-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/heyyveer/DSA_leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
