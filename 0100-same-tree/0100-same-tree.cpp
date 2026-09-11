@@ -18,7 +18,6 @@ public:
         if(p==NULL || q==NULL){
             return false;
         }
-        
         if(p->val != q->val){
             return false;
         }
