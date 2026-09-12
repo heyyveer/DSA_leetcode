@@ -21,9 +21,9 @@ public:
         if(left->val != right->val){
             return false;
         }
-        bool leftcheck = check(left->left,right->right);
-        bool rightcheck =check(left->right, right->left);
-        return leftcheck && rightcheck;
+        bool left_check = check(left->left,right->right);
+        bool right_check = check(left->right,right->left);
+        return left_check && right_check;
     }
     bool isSymmetric(TreeNode* root) {
         if(root==NULL){
