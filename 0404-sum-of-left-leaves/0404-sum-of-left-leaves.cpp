@@ -18,10 +18,10 @@ public:
         }
         sumOfLeftLeaves(root->left);
         sumOfLeftLeaves(root->right);
-        if(root->left != NULL &&
-        root->left->left == NULL &&
-        root->left->right == NULL){
-            sum+=root->left->val;
+        if(root->left!=NULL){
+            if(root->left->left==NULL && root->left->right==NULL){
+                sum+=root->left->val;
+            }
         }
         return sum;
     }
