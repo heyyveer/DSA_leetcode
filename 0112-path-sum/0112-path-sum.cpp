@@ -16,13 +16,13 @@ public:
             return false;
         }
         if(root->left==NULL && root->right==NULL){
-            if(root->val==targetSum){
+            if(targetSum==root->val){
                 return true;
             }
             return false;
         }
-        bool left_check = hasPathSum(root->left,((targetSum)-root->val));
-        bool right_check= hasPathSum(root->right,((targetSum)-root->val));
-        return left_check || right_check;
+        bool left = hasPathSum(root->left,(targetSum-(root->val)));
+        bool right = hasPathSum(root->right,(targetSum-(root->val)));
+        return left||right;
     }
 };
