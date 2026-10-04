@@ -1,17 +1,13 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        int a =0,b=1,ans=0 , n=prices.size();
-        while(b<n){
-            if(prices[a]<prices[b]){
-                ans = max(ans,(prices[b]-prices[a]));
-                b++;
-            }
-            else{
-                a=b;
-                b++;
-            }
+        // greedy approach
+        int minprice = INT_MAX;
+        int maxprice = 0;
+        for(int price : prices){
+            minprice = min(minprice,price);
+            maxprice = max(maxprice,price-minprice);
         }
-        return ans;
+        return maxprice;
     }
 };
