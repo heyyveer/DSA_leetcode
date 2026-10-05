@@ -7,12 +7,12 @@ public:
         prefix[0]=1;
         suffix[n-1]=1;
         for(int i = 1; i<n;i++){
-            cout<<prefix[i]<<"-->";
+            // cout<<prefix[i]<<"-->";
             prefix[i]=prefix[i-1]*nums[i-1];
         }
         cout<<endl;
         for(int j = n-2;j>=0;j--){
-            cout<<suffix[j]<<"-->";
+            // cout<<suffix[j]<<"-->";
             suffix[j]=suffix[j+1]*nums[j+1];
         }
         vector<int> ans(n);
